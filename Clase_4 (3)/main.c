@@ -1,6 +1,23 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+int dividirEnteros(int dividendo, int divisor);
+int main()
+{
+    int resultado;
+    resultado = dividirEnteros(100,4);
+    printf("%d", resultado);
+    return 0;
+}
+int dividirEnteros(int dividendo, int divisor)
+{
+    float totalDivision;
+    totalDivision = dividendo / divisor;
+    return totalDivision;
+}
+/*#include <stdio.h>
+#include <stdlib.h>
+
 int main()
 {
     int resultado;
@@ -15,6 +32,7 @@ int main()
     {
         printf("No se pudo.");
     }
-    printf("%d", resultado);*/
+    printf("%d", resultado);
     return 0;
 }
+*/
