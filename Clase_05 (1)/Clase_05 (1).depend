@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1522971301 source:d:\mis documentos\clase_05 (1)\getint.c
+	<stdio.h>
+	<stdlib.h>
+
+1522971433 source:d:\mis documentos\clase_05 (1)\main.c
+	<stdio.h>
+	<stdlib.h>
+	"getInt.h"
+
+1522971227 d:\mis documentos\clase_05 (1)\getint.h
+
