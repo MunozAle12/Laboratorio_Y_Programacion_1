@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1523057639 source:c:\pc commodore\ale utn\laboratorio_y_programacion_1\clase_5 (1)\getint.c
+	<stdio.h>
+	<stdlib.h>
+
