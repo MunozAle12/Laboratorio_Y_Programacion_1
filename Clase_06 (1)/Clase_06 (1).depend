@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1523406185 source:c:\users\alumno\desktop\laboratorio_y_programacion_1-master\clase_06 (1)\contenidointarray.c
+
+1523405836 source:c:\users\alumno\desktop\laboratorio_y_programacion_1-master\clase_06 (1)\getint.c
+	<stdio.h>
+	<stdlib.h>
+
+1523406850 source:c:\users\alumno\desktop\laboratorio_y_programacion_1-master\clase_06 (1)\main.c
+	<stdio.h>
+	<stdlib.h>
+	"getInt.h"
+
+1523405838 c:\users\alumno\desktop\laboratorio_y_programacion_1-master\clase_06 (1)\getint.h
+
+1523406547 source:c:\users\alumno\desktop\laboratorio_y_programacion_1-master\clase_06 (1)\esentero.c
+
