@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1523576481 source:d:\alem\04 (1)\clase_12\getint.c
+	<stdio.h>
+	<stdlib.h>
+
+1523577744 source:d:\alem\04 (1)\clase_12\mostrararray.c
+	<stdio.h>
+	<stdlib.h>
+
+1523577763 source:d:\alem\04 (1)\clase_12\ordenararrayint.c
+	<stdio.h>
+	<stdlib.h>
+
+1523577551 source:d:\alem\04 (1)\clase_12\main.c
+	<stdio.h>
+	<stdlib.h>
+	"getInt.h"
+	"ordenarArrayInt.h"
+	"mostrarArray.h"
+
+1523576179 d:\alem\04 (1)\clase_12\getint.h
+
+1523571531 d:\alem\04 (1)\clase_12\ordenararrayint.h
+
+1523576691 d:\alem\04 (1)\clase_12\mostrararray.h
+
