@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1524003801 source:d:\alem\clase 8 (1)\getint.c
+	<stdio.h>
+	<stdio.h>
+	<stdlib.h>
+	"getInt.h"
+
+1524004430 d:\alem\clase 8 (1)\getint.h
+
+1524008970 source:d:\alem\clase 8 (1)\main.c
+	<stdio.h>
+	<stdlib.h>
+
